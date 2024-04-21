@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_missiveronica/repo_grocery-list-two">
+  <a href="https://github.com/missiveronica/grocery-list-two.git">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
