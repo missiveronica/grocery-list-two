@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/missiveronica/grocery-list-two.git">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://img.freepik.com/free-photo/topview-fruit-juices-with-clipboard-copyspace_23-2148227568.jpg?t=st=1713666258~exp=1713669858~hmac=55027d5b94e8428d4a123451d393d142c1d30d0d3d98894aa1bd5f0345cbfbf9&w=900" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Grocery List</h3>
@@ -11,21 +11,21 @@
     The Application allows to form the shopping list, tick the items completed or delete them from the list.
     The App is build with REACT technology. The App was created to learn to work with class components as a base for proceeding with Redux.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/missiveronica/grocery-list-two.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/missiveronica/grocery-list-two.git">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/missiveronica/grocery-list-two.git/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/missiveronica/grocery-list-two.git/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://scintillating-swan-3cd1fb.netlify.app/)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
