@@ -104,7 +104,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## 📝 License
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-This project is [MIT](https://github.com/missiveronica/grocery-list-two/master/LICENSE) licensed.
+This project is [MIT](https://github.com/missiveronica/grocery-list-two/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,7 +117,7 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/veronika-glushkova-1369016a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronika-glushkova-1369016a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
