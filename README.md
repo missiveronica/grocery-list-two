@@ -1,6 +1,7 @@
-  <a href="https://github.com/missiveronica/grocery-list-two/main/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
-  </a>
+
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/missiveronica/grocery-list-two/latest/total?logo=GitHub&logoColor=blue)
+![NPM Version](https://img.shields.io/npm/v/npm?style=flat&color=green)
+
 
 <!-- PROJECT LOGO -->
 <br />
