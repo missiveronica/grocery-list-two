@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/missiveronica/grocery-list-two.git/main/LICENSE">
+  <a href="https://github.com/missiveronica/grocery-list-two.git/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
   <a href="https://codecov.io/gh/kefranabg/readme-md-generator">
