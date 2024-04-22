@@ -1,4 +1,4 @@
-  <a href="https://github.com/missiveronica/grocery-list-two/LICENSE">
+  <a href="https://github.com/missiveronica/grocery-list-two/main/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
 
