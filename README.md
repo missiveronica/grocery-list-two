@@ -112,9 +112,10 @@ This project is [MIT](LICENSE) licensed.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+👤 **Veronika Glushkova** - email@veronika.glushkova.dev@gmail.com
+
+Project Link: [https://github.com/missiveronica/grocery-list-two.git](https://github.com/gmissiveronica/grocery-list-two.git)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronika-glushkova-1369016a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)
 
