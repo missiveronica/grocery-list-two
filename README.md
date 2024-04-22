@@ -1,6 +1,9 @@
 
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/missiveronica/grocery-list-two/latest/total?logo=GitHub&logoColor=blue)
 ![NPM Version](https://img.shields.io/npm/v/npm?style=flat&color=green)
+![Netlify](https://img.shields.io/netlify/74e4a7c9-332e-4a8a-bb2d-cca0671beb7e?logo=Netlify&color=%2364e6e3)
+
+
 
 
 <!-- PROJECT LOGO -->
