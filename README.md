@@ -1,5 +1,4 @@
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronika-glushkova-1369016a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -26,7 +25,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 📖  About The Project
 
 [![Product Name Screen Shot](Screenshot.png/)
 
@@ -45,7 +44,7 @@ The Application was created to practice class components which will be the base 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## ⚡️ Getting Started
 
 Below you can find the instructions on setting up this project locally.
 To get a local copy up and running follow these simple steps.
