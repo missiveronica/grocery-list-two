@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]](LICENSE.txt)
 [![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/veronika-glushkova-1369016a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
 
 <!-- PROJECT LOGO -->
