@@ -103,8 +103,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 ## 📝 License
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-This project is [MIT](https://github.com/missiveronica/grocery-list-two/main/LICENSE) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
