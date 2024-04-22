@@ -9,7 +9,7 @@
 
   <p align="center">
     The Application allows to form the shopping list, tick the items completed or delete them from the list.
-    The App is build with REACT technology. The App was created to learn to work with class components as a base for proceeding with Redux.
+    The App was created to learn to work with class components as a base for proceeding with Redux.
     <br />
     <a href="https://github.com/missiveronica/grocery-list-two.git"><strong>Explore the docs »</strong></a>
     <br />
@@ -27,7 +27,7 @@
 
 [![Product Name Screen Shot](Screenshot.png/)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+The Application was created to practice class components which will be the base for learning the Redux.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -44,8 +44,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Below you can find the instructions on setting up this project locally.
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
@@ -57,19 +57,24 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repository
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/missiveronica/grocery-list-two.git
+   ```
+2. Go into the repository
+   ```sh
+   cd grocery-list-two
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Run the application
+   ```sh
+   npm start
    ```
+
+   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
