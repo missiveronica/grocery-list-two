@@ -36,8 +36,6 @@ The Application was created to practice class components which will be the base 
 
 * [![React][React.js]][React-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
