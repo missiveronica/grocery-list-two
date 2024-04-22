@@ -29,7 +29,6 @@
 
 The Application was created to practice class components which will be the base for learning the Redux.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -76,7 +75,6 @@ This is an example of how to list things you need to use the software and how to
 
    
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -102,7 +100,6 @@ Don't forget to give the project a star! Thanks again!
 ## 📝 License
 This project is [MIT](LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -116,7 +113,6 @@ This project is [MIT](LICENSE) licensed.
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronika-glushkova-1369016a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
