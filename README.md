@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 📖  About The Project
 
-[![Product Name Screen Shot](Screenshot.png/)
+![Product Name Screen Shot](Screenshot.png/)
 
 The Application was created to practice class components which will be the base for learning the Redux.
 
