@@ -19,7 +19,6 @@
 
   <p align="center">
     The Application allows to form the shopping list, tick the items completed or delete them from the list.
-    The App was created to learn to work with class components as a base for proceeding with Redux.
     <br />
     <a href="https://github.com/missiveronica/grocery-list-two.git"><strong>Explore the docs »</strong></a>
     <br />
